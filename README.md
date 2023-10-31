@@ -18,8 +18,8 @@ This project represents a significant step forward in motor imagery classificati
 ## Getting Started
 To get started with this project, follow these steps:
 
-1. [Installation](#installation):
-2. **Create a Virtual Environment (Optional)**: We recommend creating a virtual environment to isolate this project's dependencies. Open your terminal or command prompt and run the following commands:
+[Installation](#installation):
+**Create a Virtual Environment (Optional)**: We recommend creating a virtual environment to isolate this project's dependencies. Open your terminal or command prompt and run the following commands:
 
    ```bash
    # Create a virtual environment
