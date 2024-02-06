@@ -15,18 +15,4 @@ This project represents a significant step forward in motor imagery classificati
 - High-level accuracy and precision in motor imagery tasks.
 - Ready-to-use code and resources.
 
-## Getting Started
-To get started with this project, follow these steps:
-
-[Installation](#installation):
-**Create a Virtual Environment (Optional)**: We recommend creating a virtual environment to isolate this project's dependencies. Open your terminal or command prompt and run the following commands:
-
-   ```bash
-   # Create a virtual environment
-   python -m venv mi_bci_env
-
-   # Activate the virtual environment
-   source mi_bci_env/bin/activate  # On macOS/Linux
-   mi_bci_env\Scripts\activate  # On Windows
-
 
